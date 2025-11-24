@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="80%" alt="Hello, I'm Mahmoud. I build .NET applications!" src="./assets/gh-readme-header.png" />
+    <h3> Hello , I'm Mahmoud Hamada. I build .NET applications! </h3>
   </a>
 </p>
 
@@ -35,20 +35,48 @@ I'm a passionate **.NET Software Engineer** from Egypt 🇪🇬
 
 ### **📊 GitHub Stats**
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamada&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahmoud's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHamada&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamadaAbdelwahab
+/&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahmoud's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHamadaAbdelwahab
+/&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 ---
 
 ### **Top Repositories**
 
-<a href="https://github.com/MahmoudHamada/SearchPharmacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamada&repo=SearchPharmacy&theme=buefy" />
+<a href="https://github.com/MahmoudHamadaAbdelwahab
+//SearchPharmacy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab
+/&repo=SearchPharmacy&theme=buefy" />
 </a>
 
-<a href="https://github.com/MahmoudHamada/YourOtherRepo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamada&repo=YourOtherRepo&theme=buefy" />
+<a href="https://github.com/MahmoudHamadaAbdelwahab
+//YourOtherRepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab
+/&repo=YourOtherRepo&theme=buefy" />
 </a>
+
+
+<p align="center">
+  <a href="https://github.com/MahmoudHamadaAbdelwahab/SearchPharmacy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab&repo=SearchPharmacy&theme=buefy" />
+  </a>
+  
+  <a href="https://github.com/MahmoudHamadaAbdelwahab/YourSecondRepo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab&repo=YourSecondRepo&theme=buefy" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br /><br />
 
@@ -58,3 +86,11 @@ I'm a passionate **.NET Software Engineer** from Egypt 🇪🇬
 <a href="https://www.linkedin.com/in/">
   <img align="right" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+
+
+
+
+
+
+
+
