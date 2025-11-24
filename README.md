@@ -34,43 +34,10 @@ I'm a passionate **.NET Software Engineer** from Egypt 🇪🇬
 ---
 
 ### **📊 GitHub Stats**
-
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamadaAbdelwahab
-/&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahmoud's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHamadaAbdelwahab
-/&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
----
-✅ Extra Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHamadaAbdelwahab" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudHamadaAbdelwahab" />
 
 
 
-### **Top Repositories**
-
-<a href="https://github.com/MahmoudHamadaAbdelwahab
-//SearchPharmacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab
-/&repo=SearchPharmacy&theme=buefy" />
-</a>
-
-<a href="https://github.com/MahmoudHamadaAbdelwahab
-//YourOtherRepo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab
-/&repo=YourOtherRepo&theme=buefy" />
-</a>
-
-
-<p align="center">
-  <a href="https://github.com/MahmoudHamadaAbdelwahab/SearchPharmacy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab&repo=SearchPharmacy&theme=buefy" />
-  </a>
-  
-  <a href="https://github.com/MahmoudHamadaAbdelwahab/YourSecondRepo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaAbdelwahab&repo=YourSecondRepo&theme=buefy" />
-  </a>
-</p>
 
 
 
@@ -82,16 +49,6 @@ I'm a passionate **.NET Software Engineer** from Egypt 🇪🇬
 
 
 
-
-
-<br /><br />
-
-<a href="https://twitter.com/">
-  <img align="right" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/">
-  <img align="right" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
 
 
